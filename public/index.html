@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sourabh-21bce7742</title>
+    <link rel="stylesheet" href="./index.css">
+    <link rel="icon" href="./chess.png" type="image/png">
+</head>
+<body>
+    <h1>Turn-based Game</h1>
+    <div id="status">Current Player: A</div>
+
+    <p>A</p>
+    <div id="game-container">
+        <div id="board" class="player-a-board">
+            <div class="cell A">A-P1</div>
+            <div class="cell A">A-P2</div>
+            <div class="cell A">A-H1</div>
+            <div class="cell A">A-H2</div>
+            <div class="cell A">A-P3</div>
+            <!-- Empty cells -->
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell B">B-P1</div>
+            <div class="cell B">B-H1</div>
+            <div class="cell B">B-P2</div>
+            <div class="cell B">B-H2</div>
+            <div class="cell B">B-P3</div>
+        </div>
+   
+    </div>
+<p>B</p>
+    <div id="controls">
+        <button class="btn">L</button>
+        <button class="btn">R</button>
+        <button class="btn">F</button>
+        <button class="btn">B</button>
+    </div>
+
+    <div id="history">
+        <h2>Move History</h2>
+        <ul id="history-list"></ul>
+    </div>
+    <div id="captured">
+        <h2>Captured Characters</h2>
+        <ul id="captured-list"></ul>
+    </div>
+
+    <script src="client.js"></script>
+ 
+</body>
+</html>
