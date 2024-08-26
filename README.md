@@ -40,8 +40,17 @@ Technologies
     Communication: WebSockets
 
 Setup
+<<<<<<< HEAD
 -download the source code from github.
 - navigate to the file directory where project is located using cd <directory-name>
 - use node server.js
 - the file runs by default on localhost:3000
+=======
+- download the source code.
+- use cd <directory-name> to navigate to the file
+- run nodemon server to run the file
+
+Snippets:
+
+>>>>>>> 98739fd26bcdd8dab652103c7e647423f13d9f28
 
