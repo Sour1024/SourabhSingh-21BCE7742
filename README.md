@@ -52,5 +52,11 @@ Setup
 
 Snippets:
 
+![image](https://github.com/user-attachments/assets/3c5a5e9f-059b-4bff-b14c-9255a665e73d)
+
+![image](https://github.com/user-attachments/assets/f5605de9-5574-4fd0-947d-f5a9abcae21c)
+
+
+
 >>>>>>> 98739fd26bcdd8dab652103c7e647423f13d9f28
 
