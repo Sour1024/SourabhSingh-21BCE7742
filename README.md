@@ -39,3 +39,9 @@ Technologies
     Backend: Node.js with Express
     Communication: WebSockets
 
+Setup
+-download the source code from github.
+- navigate to the file directory where project is located using cd <directory-name>
+- use node server.js
+- the file runs by default on localhost:3000
+
