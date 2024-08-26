@@ -39,3 +39,8 @@ Technologies
     Backend: Node.js with Express
     Communication: WebSockets
 
+Setup
+- download the source code.
+- use cd <directory-name> to navigate to the file
+- run nodemon server to run the file
+
